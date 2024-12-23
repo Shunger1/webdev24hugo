@@ -1,0 +1,4 @@
+baseURL = 'https://Shunger1.github.io/webdev24-hugo/'
+languageCode = 'ru'
+title = 'Вернуться на главную дорогу'
+theme = 'ananke'
