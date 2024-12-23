@@ -1,4 +1,4 @@
-baseURL = 'https://Shunger1.github.io/webdev24hugo/'
+baseURL = 'http://localhost/'
 languageCode = 'ru'
 title = 'Вернуться на главную дорогу'
 theme = 'ananke'
