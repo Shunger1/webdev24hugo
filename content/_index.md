@@ -1,4 +1,4 @@
 +++
-title = 'СВЕРХЪЕСТЕСТВЕННОЕ'
-{< image src="spn.jpg" >}
+title = "СВЕРХЪЕСТЕСТВЕННОЕ"
+image = "spn.jpg"
 +++
