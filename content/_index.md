@@ -1,4 +1,4 @@
 +++
 title = 'СВЕРХЪЕСТЕСТВЕННОЕ'
-{{< image src="/spn.jpg" >}}
 +++
+{{< image src="/spn.jpg" >}}
