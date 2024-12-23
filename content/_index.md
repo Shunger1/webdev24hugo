@@ -1,4 +1,4 @@
 +++
 title = "СВЕРХЪЕСТЕСТВЕННОЕ"
-image = "spn.jpg"
+image = "assets/spn.jpg"
 +++
